@@ -46,7 +46,7 @@ Independent manual QA and UI/UX review of a live B2B website. The work covered r
 ## Skills demonstrated
 
 - **Test design:** equivalence partitioning, boundary-value analysis and error guessing.
-- **Test execution:** functional, negative, responsive, keyboard-accessibility, performance.
+- **Test execution:** Functional, negative, responsive, basic keyboard-accessibility and performance checks.
 - **Traceability:** requirements → scenarios → test cases → execution results.
 - **Defect management:** reproduction steps, expected vs. actual results, impact, severity and evidence.
 - **UI/UX review:** responsive layout, text overlap, navigation affordance and footer-link usability.
@@ -58,7 +58,7 @@ Independent manual QA and UI/UX review of a live B2B website. The work covered r
 | `Resilio_Master_Test_Scenarios_and_Test_Cases.xlsx` | 17 sheets: dashboard, modules, scenarios, test cases, test suites, RTM, execution summary, exploratory tests and defect log |
 | `Test_Execution_Summary.pdf` | Execution scorecard, module and test-type results, test register and QA recommendation |
 | `Defect_Log_and_Jira.pdf` | Seven defect reports with Jira details, reproduction steps, severity and remediation suggestions |
-| `Defects_Evidence` |Contains Jira defect reports and supporting screenshots/screen recordings, organized by defect ID for easy verification. |
+| `Defects_Evidence` |Individual Jira ticket PDFs and supporting screenshots/screen recordings, organised by defect ID. |
 | `README.md` | Project overview and recruiter reading guide |
 
 ## Scope and limitations
