@@ -58,7 +58,7 @@ Independent manual QA and UI/UX review of a live B2B website. The work covered r
 | `Resilio_Master_Test_Scenarios_and_Test_Cases.xlsx` | 17 sheets: dashboard, modules, scenarios, test cases, test suites, RTM, execution summary, exploratory tests and defect log |
 | `Test_Execution_Summary.pdf` | Execution scorecard, module and test-type results, test register and QA recommendation |
 | `Defect_Log_and_Jira.pdf` | Seven defect reports with Jira details, reproduction steps, severity and remediation suggestions |
-| `Defects_Evidence` | directory contains supporting screenshots and screen recordings for reported defects. <br/>Evidence is organized by Jira defect ID (RQA3-1, RQA3-2, etc.) to make verification and defect reproduction easier. |
+| `Defects_Evidence` |Contains Jira defect reports and supporting screenshots/screen recordings, organized by defect ID for easy verification. |
 | `README.md` | Project overview and recruiter reading guide |
 
 ## Scope and limitations
